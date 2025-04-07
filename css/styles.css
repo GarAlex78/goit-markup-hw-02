@@ -116,11 +116,10 @@ a {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
+  /* text-align: center; */
   color: #2e2f42;
 }
-/* .team_list {
-} */
+
 .team_list_item {
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
@@ -131,30 +130,27 @@ a {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  /* text-align: center; */
+
   color: #2e2f42;
 }
 .team_item_job {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /* text-align: center; */
+
   color: #434455;
 }
 
 /* portfolio */
 
-/* .section_portfolio {
-} */
 .portfolio_title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  /* text-align: center; */
+
   color: #2e2f42;
 }
-/* .portfolio_list {}
-.portfolio_list_item {}  */
+
 .item_service {
   font-weight: 500;
   font-size: 20px;
