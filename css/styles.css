@@ -68,17 +68,16 @@ a {
 .section_baner {
   background-color: #2e2f42;
 }
-.baner_titel {
+.baner_title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-
+  text-align: center;
   color: #fff;
 }
 .baner_btn {
   font-family: inherit;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
@@ -93,7 +92,7 @@ a {
 
 /* srtategy */
 
-.srtategy_titel {
+.srtategy_title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -111,18 +110,17 @@ a {
 .section_team {
   background-color: #f4f4fd;
 }
-.section_team_titel {
+.section_team_title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  text-align: center;
 }
 
 .team_list_item {
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background-color: #fff;
 }
 .team_item_name {
@@ -149,6 +147,7 @@ a {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  text-align: center;
 }
 
 .item_service {
